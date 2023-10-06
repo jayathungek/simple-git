@@ -1,3 +1,3 @@
-fork
-knife
-spoon
+fork: an implement for spearing foods
+knife: a cutting or slicing instrument
+spoon: used to eat liquid foods
